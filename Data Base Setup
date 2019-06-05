@@ -1,0 +1,4 @@
+In order to use the data base use the two text files in the master branch to make two tables in your data base server (MSSM would be the best option).
+Then add your data connection of the data base containing the two tables and then add the two tables as a data source in the solution keep track on the connection string.
+Go to the database folder of the projects solution and open the LinqToSqlConnection.cs file insert the correct connection string after the .Settings. in the connectionString variable.
+Insert all the nuget packages present in the package.config file to the project solution.
