@@ -1,4 +1,5 @@
-WPF GUI storing sales and transportation data for a cotton oil company
+# Cotton Oil Factory Database
+A WPF GUI application storing sales and transportation data for a cotton oil company an application using data binding.
 
 ![Transportation Confirmation Data](https://user-images.githubusercontent.com/44043757/81600924-62325800-9398-11ea-87f0-b3ad532cdc4b.png)
 ![Transportation MessageBox Confirmation](https://user-images.githubusercontent.com/44043757/81601352-b89f9680-9398-11ea-9bb8-298994a822a7.png)
